@@ -1,0 +1,209 @@
+{
+  "status": "ok",
+  "totalResults": 37,
+  "articles": [
+    {
+      "source": { "id": "associated-press", "name": "Associated Press" },
+      "author": "GABRIELA MOLINA, REGINA GARCIA CANO",
+      "title": "Ecuador holds 6 Colombians in slaying of presidential candidate as violence weighs on nation - The Associated Press",
+      "description": "Ecuador will hold six Colombian men for at least a month as the country probes their involvement in the slaying of a presidential candidate whose life’s work was fighting crime and corruption, the national prosecutor’s office said Friday. Fernando Villavicenc…",
+      "url": "https://apnews.com/article/ecuador-villavicencio-presidential-candidate-killed-colombians-4ffb2030f439a6f1e6039326e1ee64b6",
+      "urlToImage": "https://dims.apnews.com/dims4/default/86f4091/2147483647/strip/true/crop/5310x2987+0+277/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ffc%2Fdd%2Fec4f67d05e7d671c4fe7e83dad40%2Fac9b7f940054464eb30c50acbde3ff96",
+      "publishedAt": "2023-08-11T16:23:00Z",
+      "content": "QUITO, Ecuador (AP) Ecuador will hold six Colombian men for at least a month as the country probes their involvement in the slaying of a presidential candidate whose lifes work was fighting crime and… [+6805 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Caitlin Ostroff, Eric Wallerstein, Jack Pitcher, Candice Choi, Hannah Miao, Gunjan Banerji, Angus Berwick, Heard Editors",
+      "title": "Stock Market News Today: Dow Edges Up After Inflation Data; UBS, Archer Aviation Stocks in Focus - The Wall Street Journal",
+      "description": "Live coverage of what's moving stocks and markets, including the Dow Jones Industrial Average, S&P 500 and Nasdaq Composite",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-08-11-2023",
+      "urlToImage": "https://images.wsj.net/im-785590/social",
+      "publishedAt": "2023-08-11T16:11:00Z",
+      "content": "Major U.S. indexes were mixed in midday trading as investors sifted through another round of inflation data.\r\nStocks had declined earlier this morning after the release of the producer-price index, w… [+1818 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "Daniel Boffey",
+      "title": "Zelenskiy sacks military recruitment heads over frontline bribes scandal - The Guardian",
+      "description": "Ukrainian president describes taking of cash from people who want to avoid conscription as form of treachery",
+      "url": "https://www.theguardian.com/world/2023/aug/11/zelenskiy-sacks-all-military-recruitment-heads-over-frontline-bribes-scandal-ukraine",
+      "urlToImage": "https://i.guim.co.uk/img/media/356361b8efcccf708ee6a352b436caf16587692a/0_78_3000_1801/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=757962f8f5f62e4de3fcea7a5b2cfcfe",
+      "publishedAt": "2023-08-11T15:57:00Z",
+      "content": "Volodymyr Zelenskiy has announced the dismissal of all the heads of Ukraines regional military recruitment centres in the latest drive to root out corruption after officials were accused of taking br… [+5282 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Hannah Ward-Glenton, Karen Gilchrist",
+      "title": "European markets close lower; UBS ends Credit Suisse protection measures, shares up 4.7% - CNBC",
+      "description": "European markets ended the week lower Friday as investors digested the latest U.S. inflation data and earnings.",
+      "url": "https://www.cnbc.com/2023/08/11/european-markets-open-to-close-earnings-data-and-news.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107262301-1687757211926-gettyimages-1258684718-AFP_33JM9ZN.jpeg?v=1691733956&w=1920&h=1080",
+      "publishedAt": "2023-08-11T15:56:00Z",
+      "content": "Hong Kong listed shares of Chinese tech giant Alibaba jumped over 3% after the company posted a 51% rise in attributable profit and a 14% increase in revenue year on year for the three months ended J… [+779 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Bryan Mena",
+      "title": "US consumers are feeling less optimistic about the economy for the first time this summer - CNN",
+      "description": "Americans became slightly less optimistic about the economy this month, following two straight months of growing confidence.",
+      "url": "https://www.cnn.com/2023/08/11/business/consumer-sentiment-august-preliminary/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230810152400-us-consumer-sentiment-july-restricted.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-08-11T15:27:00Z",
+      "content": "Americans became slightly less optimistic about the economy this month, following two straight months of growing confidence.\r\nConsumer sentiment tracked by the University of Michigan fell to 71.2 in … [+3133 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Whitney Wild",
+      "title": "Illinois Supreme Court upholds state’s assault-style weapons ban - CNN",
+      "description": "The Illinois Supreme Court on Friday upheld the state’s assault-style weapons ban in a 4-3 ruling after months of legal challenges sought to dismantle the law.",
+      "url": "https://www.cnn.com/2023/08/11/politics/illinois-assault-weapons-ban/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230517110805-assault-weapon-sales-illinois-file.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-08-11T15:09:00Z",
+      "content": "The Illinois Supreme Court on Friday upheld the states assault-style weapons ban in a 4-3 ruling after months of legal challenges sought to dismantle the law. \r\nState lawmakers in January passed, and… [+2932 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Deadline" },
+      "author": "Anthony D'Alessandro",
+      "title": "‘Last Voyage Of The Demeter’ Charts $750K In Thursday Night Previews; ‘Barbie’ Crossing Half-Billion U.S. Today – Box Office - Deadline",
+      "description": "FRIDAY AM UPDATE: The only new wide release this weekend is Amblin’s period Dracula horror pic The Last Voyage of the Demeter being distributed by Universal. It made $750K last night in previ…",
+      "url": "https://deadline.com/2023/08/box-office-barbie-last-voyage-of-the-demeter-1235460243/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2023/08/100823_IT_The-Last-Voyage-of-the-Demeter-e1691764928275.jpeg?w=838",
+      "publishedAt": "2023-08-11T14:41:00Z",
+      "content": "FRIDAY AM UPDATE: The only new wide release this weekend is Amblin’s period Dracula horror pic The Last Voyage of the Demeterbeing distributed by Universal. It made $750K last night in previews from … [+3539 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Zahid Mahmood, Christian Edwards",
+      "title": "Asylum-seekers removed from controversial UK barge after bacteria discovered - CNN",
+      "description": "Asylum-seekers have been removed from a controversial barge in southern England after Legionella bacteria was discovered in the water – days after experts warned of the risk of infection.",
+      "url": "https://www.cnn.com/2023/08/11/uk/bibby-stockholm-legionnaires-disease-gbr-intl/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230807090037-01-bibby-stockholm-barge-asylum-seekers-intl-gbr.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-08-11T14:18:00Z",
+      "content": "Asylum-seekers have been removed from a controversial barge in southern England after Legionella bacteria was discovered in the water days after experts warned of the risk of infection.\r\nThirty-nine … [+2500 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Patriots.com" },
+      "author": null,
+      "title": "Breaking down three Patriots preseason debuts - Patriots.com",
+      "description": "Three Patriots rookies got their feet wet in the first preseason action of the season.",
+      "url": "https://www.patriots.com/news/breaking-down-three-patriots-preseason-debuts",
+      "urlToImage": "https://static.clubs.nfl.com/image/private/t_editorial_landscape_12_desktop/patriots/zkzo9nipwozjp0mvluk6",
+      "publishedAt": "2023-08-11T14:15:53Z",
+      "content": "26 offensive snaps (49 percent)\r\n3-of-4, 19 yards passing, 5 carries, 34 yards, touchdown\r\nThe Patriots offense was stagnant for much of the contest but received a notable boost when rookie Malik Cun… [+2708 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Sandee LaMotte",
+      "title": "Heat can endanger some people faster than others. Are you one of them? - CNN",
+      "description": "The hottest summer on record continues to endanger lives, with some people more at risk than others. If you have one of these conditions, you may be one of them.",
+      "url": "https://www.cnn.com/2023/08/11/health/most-at-risk-heat-wave-wellness/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230810180619-pregnant-woman-heat-stock-restricted.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-08-11T14:00:00Z",
+      "content": "Death from extreme heat once typically struck scorching locations such as Death Valley. Today, no place seems immune from deadly temperatures.\r\nWhile heat can kill, it also endangers health by making… [+7176 chars]"
+    },
+    {
+      "source": { "id": "the-washington-post", "name": "The Washington Post" },
+      "author": "Adela Suliman, Natalia Abbakumova",
+      "title": "Russia launches 'Luna-25' mission in race to moon's South pole - The Washington Post",
+      "description": "Russia hailed the Luna-25 rocket launch as a “new page” in its space exploration. The spacecraft is in a race to land on the moon’s icy south pole.",
+      "url": "https://www.washingtonpost.com/world/2023/08/11/russia-rocket-luna25-moon-launch/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/08-11-2023/t_864c8aa26ec64016b5f2779c42c19d92_name_20230810_Hawaii_WWK_00_02_44_10_Still001.jpg&w=1440",
+      "publishedAt": "2023-08-11T13:38:11Z",
+      "content": "Comment on this story\r\nComment\r\nRussia launched a spacecraft Friday that is headed to the moon its first attempt since 1976, around when the Soviet Union and United States were in deep competition fo… [+5617 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Brian Lowry",
+      "title": "‘Heart of Stone’ suits up Gal Gadot in a not-so-wonderful spy thriller - CNN",
+      "description": "A self-conscious effort to build a spy franchise around Gal Gadot, “Heart of Stone” plays like a poor woman’s “Mission: Impossible,” mostly thwarting even its star’s Wonder-ful charisma. Despite solid action moments scattered over its two hours, this Netflix …",
+      "url": "https://www.cnn.com/2023/08/11/movies/heart-of-stone-review/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230810121406-02-heart-of-stone-review.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-08-11T13:37:00Z",
+      "content": "A self-conscious effort to build a spy franchise around Gal Gadot, Heart of Stone plays like a poor womans Mission: Impossible, mostly thwarting even its stars Wonder-ful charisma. Despite solid acti… [+2929 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Barron's" },
+      "author": "Josh Nathan-Kazis",
+      "title": "Covid Vaccine Revenues Are Caving. New Booster Shots May Not Help. - Barron's",
+      "description": "Moderna and Pfizer expected strong demand for the latest Covid shots. Now they're walking back those projections.",
+      "url": "https://www.barrons.com/articles/covid-vaccine-booster-shot-pfizer-moderna-revenue-a98ee0de",
+      "urlToImage": "https://images.barrons.com/im-833351/social",
+      "publishedAt": "2023-08-11T13:09:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "Cosmopolitan.com" },
+      "author": "Mehera  Bonner",
+      "title": "Fans Rally Around David Foster and Katharine McPhee as They Deal With a \"Horrible Tragedy in Our Family\" - Yahoo Life",
+      "description": "Katharine McPhee left her tour with David Foster early to address a \"horrible tragedy in our family\"",
+      "url": "https://www.cosmopolitan.com/entertainment/celebs/a44792442/david-foster-katharine-mcphee-horrible-tragedy-statement/",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/fh12IFlbnOAx8P09tevRcQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDI-/https://media.zenfs.com/en/cosmopolitan_438/203cea2d9e8ea3131a81580f24e81a7c",
+      "publishedAt": "2023-08-11T12:09:00Z",
+      "content": "David Foster and Katharine McPhee are dealing with an unexpected family tragedy, and Katharine announced that she'll be traveling home and missing their final two shows in Jakarta.\r\nKatharine announc… [+1080 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Teen accused of stabbing O'Shae Sibley to death to be arraigned in Brooklyn - CBS Philadelphia",
+      "description": "CBS News Philadelphia's Wakisha Bailey is at Philadanco in University City where Sibley learned his craft. She has the latest on the case.",
+      "url": "https://www.youtube.com/watch?v=Zo4_spdHt4Q",
+      "urlToImage": "https://i.ytimg.com/vi/Zo4_spdHt4Q/maxresdefault.jpg",
+      "publishedAt": "2023-08-11T12:08:48Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "Nicola Davis",
+      "title": "Scientists may be on brink of discovering fifth force of nature - The Guardian",
+      "description": "Experts closing in on potentially identifying new force after surprise wobble of subatomic particle",
+      "url": "https://www.theguardian.com/science/2023/aug/11/scientists-fifth-force-nature",
+      "urlToImage": "https://i.guim.co.uk/img/media/c36c0ef1c35ded61e9d43a1640fc2deaf3c3aef1/0_505_7572_4543/master/7572.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=caad156f1d4ee542d6b9f1ce10a625b7",
+      "publishedAt": "2023-08-11T12:01:00Z",
+      "content": "The tantalising theory that a fifth force of nature could exist has been given a boost thanks to unexpected wobbling by a subatomic particle, physicists have revealed.\r\nAccording to current understan… [+3502 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNET" },
+      "author": null,
+      "title": "Lab Tour: See How Samsung Puts Its Galaxy Phones Through the Wringer - CNET",
+      "description": "While touring Samsung's quality assurance facility, we saw phones get dropped, dunked and tumbled.",
+      "url": "https://www.cnet.com/tech/mobile/how-samsung-puts-its-galaxy-phones-through-the-wringer/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/920e245fec5a7e1484db15d312c961b0742fb45d/hub/2023/08/09/56f79cf3-08b5-485b-bceb-2dbda4f8d626/fold5-folding.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2023-08-11T12:00:00Z",
+      "content": "Inside a nondescript building on Samsung's campus in Suwon, South Korea, workers sit in cubicles typing away at their desks. Leaf-shaped awnings hang overhead to provide some shade from the bright of… [+7135 chars]"
+    },
+    {
+      "source": { "id": null, "name": "PhoneArena" },
+      "author": "Tsveta Ermenkova",
+      "title": "5 celebrities who don't use an iPhone and the surprising reasons why - PhoneArena",
+      "description": "For ages, Apple has reigned as the celebrity tech darling. But guess what? Not every big star sips the iPhone-flavored Kool-Aid. Check out which famous people prefer Android phones over iPhones.",
+      "url": "https://www.phonearena.com/news/5-celebrities-who-dont-use-an-iPhone-and-the-surprising-reasons-why_id149663",
+      "urlToImage": "https://m-cdn.phonearena.com/images/article/149663-wide-two_1200/5-celebrities-who-dont-use-an-iPhone-and-the-surprising-reasons-why.jpg",
+      "publishedAt": "2023-08-11T11:56:56Z",
+      "content": "Alright, let's roll out the carpet and give a nod to these 5 celebs who've taken a different path. Starting off with the billionaire honcho himself, Bill Gates, the Microsoft maestro. \r\nWord is, he r… [+2580 chars]"
+    },
+    {
+      "source": { "id": "associated-press", "name": "Associated Press" },
+      "author": "TY O'NEIL, CLAIRE RUSH, JENNIFER SINCO KELLEHER, REBECCA BOONE",
+      "title": "At least 55 people died on Maui. Residents had little warning before wildfires overtook a town - The Associated Press",
+      "description": "Hawaii emergency management records show no indication that warning sirens sounded before people ran for their lives from wildfires on Maui that killed at least 55 people. Instead, officials sent alerts to mobile phones, televisions and radio stations. But wi…",
+      "url": "https://apnews.com/article/hawaii-fires-maui-lahaina-sirens-c0f3cc5c7718bd41dd54d38479fb29b2",
+      "urlToImage": "https://dims.apnews.com/dims4/default/f291ad7/2147483647/strip/true/crop/3000x1688+0+156/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd4%2F0d%2Fb5795857488a24596345c7483298%2Fdc9bbb160b924f78aff11c7eb6798760",
+      "publishedAt": "2023-08-11T11:53:00Z",
+      "content": "LAHAINA, Hawaii (AP) Hawaii emergency management records show no indication that warning sirens sounded before people ran for their lives from wildfires on Maui that killed at least 55 people and wip… [+7044 chars]"
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": null,
+      "title": "Quake 2 Remastered's 8-Player SplitScreen Mode Looks Like Absolute Mayhem - Pure Xbox",
+      "description": null,
+      "url": "https://consent.google.com/m",
+      "urlToImage": null,
+      "publishedAt": "2023-08-11T11:45:00Z",
+      "content": "We use cookies and data to\r\n<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to un… [+1139 chars]"
+    }
+  ]
+}
