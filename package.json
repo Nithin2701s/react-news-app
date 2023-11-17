@@ -2,12 +2,13 @@
   "name": "newsapp",
   "version": "0.1.0",
   "private": true,
-  "hompage":"https://Nithin2701s.github.io/react-app-news",
+  "hompage": "https://Nithin2701s.github.io/react-app-news",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "dotenv": "^16.3.1",
+    "firebase": "^10.6.0",
     "gh-pages": "^6.0.0",
     "newsapi": "^2.4.1",
     "react": "^18.2.0",
@@ -23,8 +24,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d build"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [

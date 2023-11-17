@@ -5,7 +5,9 @@ import News from './componets/News';
 import { Routes, BrowserRouter, Route } from 'react-router-dom';
 import LoadingBar from 'react-top-loading-bar';
 
+
 const App =  ()=> {
+  require('dotenv').config()
   const apikey=process.env.REACT_APP_NEWS_APIKEY;
   const [progress, setProgress] = useState(0);
     return (
