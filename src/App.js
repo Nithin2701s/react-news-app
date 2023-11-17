@@ -7,8 +7,8 @@ import LoadingBar from 'react-top-loading-bar';
 
 
 const App =  ()=> {
-  require('dotenv').config()
-  const apikey=process.env.REACT_APP_NEWS_APIKEY;
+
+  const apikey="7916816e6ac1433b825a09215b9721bd";
   const [progress, setProgress] = useState(0);
     return (
       <div>
