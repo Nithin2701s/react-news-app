@@ -24,7 +24,8 @@ const News = (props)=>{
 
  const updateNews =async() =>{
   props.setProgress(25)
-  let url=`https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=${props.apikey}&page=${page}&pagesize=${props.pagesize}`;
+  const proxyUrl = 'https://cors-anywhere.herokuapp.com/';
+  let url=`${proxyUrl}https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=${props.apikey}&page=${page}&pagesize=${props.pagesize}`;
 
   let data = await fetch(url)
   props.setProgress(75)
@@ -40,7 +41,7 @@ useEffect(() => {
   setloading(false)
   updateNews();
   },3000)
-},);
+},[]);
 
 // const handlePrev = async()=>{
 //   // let url=`https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=${props.apikey}&page=${page-1}&pagesize=${props.pagesize}`
