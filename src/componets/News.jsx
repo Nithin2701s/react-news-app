@@ -40,7 +40,7 @@ useEffect(() => {
   setloading(false)
   updateNews();
   },3000)
-}, []);
+},);
 
 // const handlePrev = async()=>{
 //   // let url=`https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=${props.apikey}&page=${page-1}&pagesize=${props.pagesize}`
