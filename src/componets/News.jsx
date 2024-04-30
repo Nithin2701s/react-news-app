@@ -20,12 +20,12 @@ const News = (props)=>{
  const [loading, setloading] = useState(true);
  const [page, setpage] = useState(1);
  const [totalResults, settotalResults] = useState(0)
-
+ const BASE_URL = process.env.BASE_URL
 
  const updateNews =async() =>{
   props.setProgress(25)
   const proxyUrl = 'https://cors-anywhere.herokuapp.com/';
-  let url=`https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=${props.apikey}&page=${page}&pagesize=${props.pagesize}`;
+  let url=`${BASE_URL}?apiKey=${props.apikey}&country=${props.country}&category=${props.category}&page=${page}&pagesize=${props.pagesize}`;
 
   let data = await fetch(url)
   props.setProgress(75)
