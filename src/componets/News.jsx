@@ -3,7 +3,7 @@ import NewsItem from './NewsItem'
 import Spinner from './Spinner';
 import PropTypes from 'prop-types'
 import InfiniteScroll from 'react-infinite-scroll-component';
-
+const API_KEY = process.env.REACT_APP_API_KEY
 
 const News = (props)=>{
  News.defaultProps = {
@@ -20,12 +20,12 @@ const News = (props)=>{
  const [loading, setloading] = useState(true);
  const [page, setpage] = useState(1);
  const [totalResults, settotalResults] = useState(0)
- const BASE_URL = process.env.BASE_URL
+ 
 
  const updateNews =async() =>{
   props.setProgress(25)
-  let url=`${BASE_URL}?apiKey=${props.apikey}&country=${props.country}&category=${props.category}&page=${page}&pagesize=${props.pagesize}`;
-
+  let url=`https://newsapi.org/v2/top-headlines?apiKey=${API_KEY}&country=${props.country}&category=${props.category}&page=${page}&pagesize=${props.pagesize}`;
+  console.log(process.env.REACT_APP_API_KEY);
   let data = await fetch(url)
   props.setProgress(75)
   let parsedData =await data.json()
