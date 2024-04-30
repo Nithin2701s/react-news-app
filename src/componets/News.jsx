@@ -24,7 +24,6 @@ const News = (props)=>{
 
  const updateNews =async() =>{
   props.setProgress(25)
-  const proxyUrl = 'https://cors-anywhere.herokuapp.com/';
   let url=`${BASE_URL}?apiKey=${props.apikey}&country=${props.country}&category=${props.category}&page=${page}&pagesize=${props.pagesize}`;
 
   let data = await fetch(url)
